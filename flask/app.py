@@ -41,23 +41,16 @@ def receive_message():
 
 @app.route("/postJson", methods=['GET','POST'])
 def postJson():
-    # Save JSON data as CSV here...
-
-
-    # Put data into DB: Read temporary CSV as 2D list and give it to db module to handle
+    # Save JSON data  as 2D list and give it to db module to handle
 
     return Response("We received something.")
 
-# @app.route('/webhook', methods=['GET', 'POST'])
-# def index():
 # create a route for webhook
 @app.route('/webhook', methods=['GET', 'POST'])
 def webhook():
     print("webhook fxn touched")
     # return response
-    return make_response(jsonify(results()))
-#     # calling the result function for response
-#     return results()
+    return Response("something has come.")
 # run Flask app
 
 if __name__ == "__main__":

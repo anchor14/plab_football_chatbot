@@ -2233,3 +2233,626 @@ bail@chrome://marionette/content/sync.js:223:64
 1565600161774	Marionette	INFO	Stopped listening on port 52191
 1565600163463	Marionette	INFO	Stopped listening on port 52393
 1565600164312	Marionette	INFO	Stopped listening on port 51150
+1565672015365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.x9TD0UFKqJCf"
+1565672016835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565672016836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565672016836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565672018733	Marionette	INFO	Listening on port 60578
+1565672018789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4820: TypeError: document.getElementsById is not a function
+1565672074776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.etuw4ky8z98U"
+1565672075403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565672075404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565672075404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565672077005	Marionette	INFO	Listening on port 61700
+1565672077066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/#fromTop, line 4820: TypeError: document.getElementsById is not a function
+1565672081981	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565672083041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565672314203	Marionette	INFO	Stopped listening on port 61700
+1565673686828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.MlRfes0JxgET"
+1565673687600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565673687601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565673687601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565673689572	Marionette	INFO	Listening on port 54779
+1565673689671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4824: TypeError: document.getElementsById is not a function
+1565673890808	Marionette	INFO	Stopped listening on port 54779
+1565681284536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.0oEUtGL4lveQ"
+1565681285253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565681285253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565681285253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565681287893	Marionette	INFO	Listening on port 54088
+1565681287906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565681504764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.I7sUuc1kQjY8"
+1565681505391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565681505392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565681505392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565681507379	Marionette	INFO	Listening on port 54253
+1565681507423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565681557742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.0phrEZRDW16G"
+1565681558451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565681558452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565681558452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565681560674	Marionette	INFO	Listening on port 54365
+1565681560730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565681565677	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565681566750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565681623090	Marionette	INFO	Stopped listening on port 54253
+1565681624127	Marionette	INFO	Stopped listening on port 54365
+1565681625465	Marionette	INFO	Stopped listening on port 54088
+1565681629125	Marionette	INFO	Stopped listening on port 60578
+1565681707053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.klqydeG5dj2L"
+1565681707723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565681707723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565681707723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565681709528	Marionette	INFO	Listening on port 55514
+1565681709610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565681818535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.vlviNSQGxFgg"
+1565681819232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565681819232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565681819232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565681821234	Marionette	INFO	Listening on port 58164
+1565681821262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565681862148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.tLdnYKHYKLHy"
+1565681862879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565681862879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565681862880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565681864536	Marionette	INFO	Listening on port 59311
+1565681864610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565681954323	Marionette	INFO	Stopped listening on port 59311
+1565681955265	Marionette	INFO	Stopped listening on port 58164
+JavaScript error: http://plabfootball.com/js/jquery-1.8.3.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1565681958346	Marionette	INFO	Stopped listening on port 55514
+1565682007093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.I8YJnouwPodV"
+1565682007697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565682007697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565682007697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565682009417	Marionette	INFO	Listening on port 62419
+1565682009466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565682015420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682016478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682017711	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682019034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682020161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682021319	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682078780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.dz3rs46Zl1bE"
+1565682079495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565682079496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565682079496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565682081225	Marionette	INFO	Listening on port 63970
+1565682081266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565682122321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.fgHfL9CESzEI"
+1565682123039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565682123039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565682123039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565682125020	Marionette	INFO	Listening on port 65062
+1565682125118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/#fromTop, line 4823: TypeError: document.getElementsById is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565682170861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.i7FbPPYBaNjp"
+1565682171553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565682171554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565682171554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565682173247	Marionette	INFO	Listening on port 49849
+1565682173342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/#fromTop, line 4823: TypeError: document.getElementsById is not a function
+1565682181157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565682529976	Marionette	INFO	Stopped listening on port 63970
+1565682532065	Marionette	INFO	Stopped listening on port 65062
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1565682533320	Marionette	INFO	Stopped listening on port 62419
+1565682534950	Marionette	INFO	Stopped listening on port 49849
+1565682783178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.sBdZxwW4NdJP"
+1565682784059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565682784059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565682784059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565682786580	Marionette	INFO	Listening on port 63138
+1565682786609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4823: TypeError: document.getElementsById is not a function
+1565682791598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682792780	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565682794062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565683205333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.7CMUMQ8l6JDr"
+1565683206002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565683206002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565683206002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565683208041	Marionette	INFO	Listening on port 55669
+1565683208133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565683242298	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.pxOVSjQOl4rB"
+1565683242961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565683242962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565683242962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565683244786	Marionette	INFO	Listening on port 56486
+1565683244890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565683321879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.CRYwigU7udna"
+1565683322563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565683322564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565683322564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565683324350	Marionette	INFO	Listening on port 56996
+1565683324366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4796: TypeError: document.getElementsById is not a function
+1565683381528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.0jYtyqW6x6aT"
+1565683382279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565683382280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565683382280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565683384195	Marionette	INFO	Listening on port 57153
+1565683384229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565683408046	Marionette	INFO	Stopped listening on port 57153
+1565683408701	Marionette	INFO	Stopped listening on port 56996
+1565683409320	Marionette	INFO	Stopped listening on port 56486
+1565683409926	Marionette	INFO	Stopped listening on port 55669
+1565683411271	Marionette	INFO	Stopped listening on port 63138
+1565683414801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.r4fPVEKqW1Hy"
+1565683415344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565683415345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565683415345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565683416954	Marionette	INFO	Listening on port 57864
+1565683416983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4796: TypeError: document.getElementsById is not a function
+1565683426174	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565683502206	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.EQJz7vjxCsYR"
+1565683502791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565683502792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565683502792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565683504524	Marionette	INFO	Listening on port 59429
+1565683504595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/#fromTop, line 4796: TypeError: document.getElementsById is not a function
+1565683509400	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565683510429	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565683511631	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565683512928	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565683514027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565683515108	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565683547210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.srFivQnTqqVJ"
+1565683547831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565683547832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565683547832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565683549631	Marionette	INFO	Listening on port 60261
+1565683549720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4797: TypeError: document.getElementsById is not a function
+[Parent 712, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565684078713	Marionette	INFO	Stopped listening on port 60261
+1565684079707	Marionette	INFO	Stopped listening on port 59429
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565686036503	Marionette	INFO	Stopped listening on port 57864
+1565686442777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.sl9HplDRgNdP"
+1565686444278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686444279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686444279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686446363	Marionette	INFO	Listening on port 55048
+1565686446394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+1565686492236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.ZGNYxxJJQJ89"
+1565686492848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686492849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686492849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686495039	Marionette	INFO	Listening on port 55873
+1565686495049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+1565686515358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686516952	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686518576	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686520012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686521496	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686573483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.3NKvMmGJEkmB"
+1565686574181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686574182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686574182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686576357	Marionette	INFO	Listening on port 57047
+1565686576418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+1565686589272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686590311	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686615594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.jXQ5pAi8h4kG"
+1565686616198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686616198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686616198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686617967	Marionette	INFO	Listening on port 57776
+1565686618063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+1565686630250	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686631380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686632694	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686633896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686635045	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686641173	Marionette	INFO	Stopped listening on port 57047
+[Parent 14137, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565686642685	Marionette	INFO	Stopped listening on port 57776
+1565686643407	Marionette	INFO	Stopped listening on port 55873
+1565686644081	Marionette	INFO	Stopped listening on port 55048
+1565686686731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.Laql2EHinw7r"
+1565686687313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686687313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686687313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686688959	Marionette	INFO	Listening on port 58814
+1565686689034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+1565686728714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.K5dQyRKQhUZy"
+1565686729289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686729290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686729290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686731089	Marionette	INFO	Listening on port 59562
+1565686731108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4800: TypeError: document.getElementsById is not a function
+1565686782993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.fSIHZgmvylZv"
+1565686783652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686783653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686783653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686785476	Marionette	INFO	Listening on port 60472
+1565686785487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4797: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4797: TypeError: document.getElementsById is not a function
+1565686868934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.YfiHg0PkxVnw"
+1565686869708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686869708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686869708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686871371	Marionette	INFO	Listening on port 61772
+1565686871424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/#fromTop, line 4716: TypeError: document.getElementsById is not a function
+1565686876353	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686877419	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565686885250	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686886320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686887505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686888731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686889830	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686890913	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565686919214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.dIIf2oDRTbty"
+1565686919823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565686919823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565686919823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565686921925	Marionette	INFO	Listening on port 62544
+1565686922025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/#fromTop, line 4716: TypeError: document.getElementsById is not a function
+1565686929128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686930248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565686937784	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686938857	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686940111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686941446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686942579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565686943681	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687021241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.1Etf3johFbpn"
+1565687022656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687022657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687022657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687024517	Marionette	INFO	Listening on port 63730
+1565687024584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687063642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.Mf2e9w5G93Ly"
+1565687064548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687064548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687064548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687066919	Marionette	INFO	Listening on port 64334
+1565687066972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687144191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.z4aaZ6OiTtck"
+1565687145069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687145069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687145069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687147066	Marionette	INFO	Listening on port 65309
+1565687147094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687159676	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687160762	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687161969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687163232	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687164380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687165526	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687250191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.IVDINpegnLtp"
+1565687251312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687251312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687251312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687253296	Marionette	INFO	Listening on port 50587
+1565687253384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687286148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.C2PVAvuhfK96"
+1565687287380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687287381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687287381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687289334	Marionette	INFO	Listening on port 51263
+1565687289411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687320798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.7LaC4gzprIrX"
+1565687322339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687322340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687322340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687324627	Marionette	INFO	Listening on port 51847
+1565687324660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687341497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687342760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687343896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687345094	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687455088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.3cC0GGBEGsQ4"
+1565687455896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687455897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687455897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687458410	Marionette	INFO	Listening on port 54334
+1565687458518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687466846	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687468056	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687469191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687473762	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687474978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687476308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687477645	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687478768	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687479885	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687548487	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.y6cze0mCoZBN"
+1565687550139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687550139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687550139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687552062	Marionette	INFO	Listening on port 55893
+1565687552143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687558998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687560253	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687561435	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565687582214	Marionette	INFO	Stopped listening on port 55893
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1565687583110	Marionette	INFO	Stopped listening on port 58814
+1565687583903	Marionette	INFO	Stopped listening on port 54334
+1565687584624	Marionette	INFO	Stopped listening on port 51847
+1565687585180	Marionette	INFO	Stopped listening on port 51263
+1565687585731	Marionette	INFO	Stopped listening on port 50587
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1565687586362	Marionette	INFO	Stopped listening on port 65309
+1565687586860	Marionette	INFO	Stopped listening on port 64334
+[Parent 16817, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565687587348	Marionette	INFO	Stopped listening on port 63730
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1565687587754	Marionette	INFO	Stopped listening on port 62544
+1565687589340	Marionette	INFO	Stopped listening on port 61772
+1565687590123	Marionette	INFO	Stopped listening on port 60472
+1565687591030	Marionette	INFO	Stopped listening on port 59562
+1565687788556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.V27cQEeaGwU2"
+1565687789136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565687789136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565687789136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565687790870	Marionette	INFO	Listening on port 59291
+1565687790944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/#fromTop, line 4716: TypeError: document.getElementsById is not a function
+1565687795670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687796758	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687797989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565687799403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565688002187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.mGadwa1xOY9V"
+1565688002833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565688002834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565688002835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565688004474	Marionette	INFO	Listening on port 62207
+1565688004507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565688029923	Marionette	INFO	Stopped listening on port 62207
+1565688030599	Marionette	INFO	Stopped listening on port 59291
+1565688080054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.YmqqqT9c3QUW"
+1565688080648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565688080648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565688080648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565688082322	Marionette	INFO	Listening on port 63473
+1565688082413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565688188177	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/28h_f7012bbg_1jlnvqdgcxr0000gn/T/rust_mozprofile.avYPLEhpKNYs"
+1565688188795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565688188795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565688188795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565688190645	Marionette	INFO	Listening on port 65169
+1565688190659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.plabfootball.com/, line 4716: TypeError: document.getElementsById is not a function
+1565688196285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1565688202178	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
