@@ -34,7 +34,7 @@ def getSessions(url,location):
         sessions_new_day = driver.find_elements_by_css_selector(css_key)
 
         session_string+='<<'+day_list[(today_index+day-1)%7]+'>>'
-        session_string+='\n'
+        # session_string+='\n'
 
         sessions_text_day = []
         for item in sessions_new_day:
@@ -66,7 +66,7 @@ def getSessions(url,location):
                         tmp_add = "--" + str(item.text)
                         session_string += tmp_add.rstrip()
                     # session_str += '---'
-                session_string+='\n'
+                # session_string+='\n'
             count += 1
 
         # session_string+= "--------------------------------"
@@ -99,8 +99,12 @@ def send(jsonStr):
     # write code to send jsonStr to DB server here...
     url = "http://127.0.0.1:5000/postJson"
 
-    jsonFormat = jsonStr
-    print(type(jsonFormat))
+    fulfillment_string = "{\"fulfillmentText\": "
+
+
+    fulfillment_string += jsonStr
+    # jsonFormat = jsonStr
+    # print(type(jsonFormat))
 
     r = requests.post(url=url,json=jsonFormat)
     print("response from database server:", r.text)
@@ -117,7 +121,9 @@ def main():
     #     time_id = create_sessions(conn,[loc_1,session_1])
 
     jsonstr = getSessions("http://www.plabfootball.com/",user_pref)
+    print(jsonstr)
     send(jsonstr)
+
 
 
 if __name__ == '__main__':
